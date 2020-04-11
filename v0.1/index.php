@@ -140,12 +140,19 @@ form {
 <br> <br> <br>
 <form method="post"><input type="submit" name="RESET" value="RESET"></form>
 <br>
-usuwanie - usuwani są wszysycy potomkowie tej osoby i partnerzy  <br>
+<!-- usuwanie - usuwani są wszysycy potomkowie tej osoby i partnerzy  <br>
 dodanie relacji do partnera - zamiast funkcji - niezależność od płci. <br>
 <br>
 tworzenie drzewa: <br>
 mechanika - zaczynanie od pierwszego rekordu - wypozycjonowanie wszystkich osób połączonych z danym rekordem, dodanie ich do listy wypozycjonowanych. <br>
-rekurencyjne pozycjonowanie każdek osoby. <br>
+rekurencyjne pozycjonowanie każdek osoby. <br> -->
+
+<br><br>
+God left me unfinished
+<br><br>
+Project suspended for now
+<br><br>
+<a href="../v0.2">Check v0.2</a>
 
 </body>
 </html>

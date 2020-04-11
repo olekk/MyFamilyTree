@@ -136,8 +136,10 @@ rodzina 0
  ?>
 <br><br>
 <button onclick="window.location = window.location.href;">Reload</button>
-     <br><br>
-    Project suspended for now
+    <br><br><br>
+    God left me unfinished <br><br>
+    Project suspended for now <br><br>
+    <a href="../v0.2">Check v0.2</a>
 
 </body>
 </html>
